@@ -1,6 +1,8 @@
 # theyahswanthsai
 <h1 align="center">Hi 👋, I'm Sai Yashwanth</h1>
 <h3 align="center">A passionate CSE Undergrad at PES University Bangalore, India.</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theyashwanthsai" alt="theyashwanthsai" /></a> </p>
 
