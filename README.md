@@ -1,4 +1,4 @@
-# theyahswanthsai
+# theyashwanthsai
 <h1 align="center">Hi 👋, I'm Sai Yashwanth</h1>
 <h3 align="center">A passionate CSE Undergrad at PES University Bangalore, India.</h3>
 
