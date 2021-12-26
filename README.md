@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **taddishetty34@gmail.com**
 
-- ⚡ Fun fact **I am weird and crazy, But its a secret.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
