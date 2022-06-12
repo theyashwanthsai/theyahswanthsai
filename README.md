@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA, Web Dev, Game Development, Machine learning.**
 
-- 📝 I regularly write articles on [Dev Community](https://dev.to/theyashwanthsai)
+- 📝 I regularly write articles on my [hashnode](https://theyashwanthsai.hashnode.dev) blog and [Dev Community](https://dev.to/theyashwanthsai) 
 
 - 📫 How to reach me **taddishetty34@gmail.com**
 
