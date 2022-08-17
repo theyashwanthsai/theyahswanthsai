@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/theyashwanthsai/theyashwanthsai/workflows/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/theyashwanthsai/theyashwanthsai/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
