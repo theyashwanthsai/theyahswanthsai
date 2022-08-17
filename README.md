@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/theyashwanthsai/theyashwanthsai/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/theyashwanthsai/theyashwanthsai/.gitub/workflows/snake.svg" alt="Snake animation" />
 
 ###
