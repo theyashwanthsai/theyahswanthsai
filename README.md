@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Library WebAPP**
 
-- 🌱 I’m currently learning **Cyber Security, MERN Stack, Kubernetes, Dockers.**
+- 🌱 I’m currently learning **Cyber Security, MERN Stack.**
 
 - 👯 I’m looking to collaborate on **Projects based on Python, Go, Open source**
 
