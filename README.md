@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm T Sai Yashwanth</h1>
 <h3 align="center">Hi 👋! My name is Sai Yashwanth and I'm a Computer Science Undergrad, from PES University</h3>
 
-- 🔭 I’m currently working on **A Library WebAPP**
+- 🔭 I’m currently working on **A Library WebApp**
 
 - 🌱 I’m currently learning **Cyber Security, MERN Stack.**
 
