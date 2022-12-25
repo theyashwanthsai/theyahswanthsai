@@ -2,9 +2,9 @@
 <h3 align="center">Hi 👋! My name is Sai Yashwanth and I'm a Computer Science Undergrad, from PES University</h3>
 
 
-- 🌱 I’m currently learning **Rust, MERN Stack and Data Science**
+- 🌱 I’m currently learning **Web Development mainly focusing on backend, Game Development using Python (pygame and ursina), DSA Problem Solving. I am also interested in exploring Machine Learning and Data Science.**
 
-- 👯 I’m looking to collaborate on Open source Projects based on  **Python, Rust, C, Javascript**
+- 👯 I’m looking to collaborate on Open source Projects based on  **Python, C, Javascript**
 
 - 📝 I regularly write articles on [https://hashnode.com/@theyashwanthsai](https://hashnode.com/@theyashwanthsai)
 
