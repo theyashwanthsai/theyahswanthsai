@@ -3,6 +3,9 @@
 
 Hi 👋! My name is Sai Yashwanth and I'm a Computer Science Undergrad, from PES University<br>I’m currently learning Web Development mainly focusing on Backend, App Development (flutter), Game Development using <br>Python (pygame and ursina), DSA Problem Solving and Competitive Programming. I am also interested in exploring Machine Learning and Data Science.
 
+#### Blog: 
+https://theyashwanthsai.hashnode.dev
+
 
 ## Showcase:
 I build games for fun. I watch youtube videos, or read blogs and try to make something which matches with what came to my mind.
