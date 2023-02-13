@@ -11,6 +11,11 @@ Hi 👋! My name is Sai Yashwanth and I'm a Computer Science Undergrad, from PES
 [LittleOS](https://github.com/theyashwanthsai/LittleOS) - 
 Writing my own x86 Operating System which is a single tasking interrupt driven OS.
 
+[Raycasting-3d-engine](https://github.com/theyashwanthsai/raycasting-3d-engine) - 
+Doom/Wolfenstein 3D raycasting engine made using python and pygame
+
+
+
 ### Blog: 
 https://theyashwanthsai.hashnode.dev
 
