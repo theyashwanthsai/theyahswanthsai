@@ -7,9 +7,8 @@ Hi 👋! My name is Sai Yashwanth and I'm a Computer Science Undergrad, from PES
 
 
 
-### Project I am currently working on:
-[littleOS](https://github.com/theyashwanthsai/LittleOS)
-
+### Projects I am currently working on:
+[LittleOS](https://github.com/theyashwanthsai/LittleOS) - 
 Writing my own x86 Operating System which is a single tasking interrupt driven OS.
 
 ### Blog: 
