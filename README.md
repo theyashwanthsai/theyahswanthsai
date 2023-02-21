@@ -28,7 +28,7 @@ Doom/Wolfenstein 3D raycasting engine made using python and pygame
 
 >[Dodge-the-Creeps](https://github.com/theyashwanthsai/Dodge-the-Creeps)
 
->[Raycasting-3d-engine](https://github.com/theyashwanthsai/raycasting-3d-engine) - 
+>[Raycasting-3d-engine](https://github.com/theyashwanthsai/raycasting-3d-engine): 
 Doom/Wolfenstein 3D raycasting engine made using python and pygame
 
 ## Showcase:
