@@ -31,6 +31,15 @@ Doom/Wolfenstein 3D raycasting engine made using python and pygame
 >[Raycasting-3d-engine](https://github.com/theyashwanthsai/raycasting-3d-engine): 
 Doom/Wolfenstein 3D raycasting engine made using python and pygame
 
+#### CyberSec
+>[picoGym-CTFs-Writeups](https://github.com/theyashwanthsai/picoGym-CTFs-Writeups): Wrtieups for various CTFs I have solved in the non-competetive picoGym.
+
+>[Malware-For-Fun](https://github.com/theyashwanthsai/Malware-For-Fun): This repository is to showcase all the malware I will be writing as a part of course or maybe just of fun. This is an educational project, only meant for learning.
+
+>[PortScanner](https://github.com/theyashwanthsai/PortScanner): A simple port scanner I built while learning ethical hacking from TCM Sec
+
+>[Playfair-Cipher-C_project](https://github.com/theyashwanthsai/Playfair-Cipher-C_project): Implementing the Playfair algorithm which is used to encrypt and decrypt.
+
 ## Showcase:
 I build games for fun. I watch youtube videos, or read blogs and try to make something which matches with what came to my mind.
 Some of the projects I did for fun:
