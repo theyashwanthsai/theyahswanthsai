@@ -20,6 +20,7 @@ Doom/Wolfenstein 3D raycasting engine made using python and pygame
 #### IOT
 >[Theft-Detection_System](https://github.com/theyashwanthsai/Theft-Detection_System): A project made using Arduino, UltraSonic sensor, PIR sensor which detects any movement within a specific range from the sensor and lights up the LED. This was made in the IOT workshop cum hackathon conducted by my college.
 
+> [IOT-Projects](https://github.com/theyashwanthsai/IOT-Projects): All the iot projects we made as a part of a hands-on workshop conducted by my college in 3rd semester, Sept 2022.
 
 #### Game Dev
 >[Minecraft-Clone-UrsinaEngine](https://github.com/theyashwanthsai/Minecraft-Clone-UrsinaEngine): Minecraft Clone made in python using the ursine game engine.
