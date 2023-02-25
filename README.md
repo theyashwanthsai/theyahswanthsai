@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm T Sai Yashwanth</h1>
 
 
-Hi 👋! My name is Sai Yashwanth and I'm a Computer Science Undergrad, from PES University<br>I’m currently learning Web Development mainly focusing on Backend, App Development (flutter), Game Development using <br>Python (pygame and ursina), DSA Problem Solving and Competitive Programming. I am also interested in exploring Machine Learning and Data Science.
+ My name is Sai Yashwanth and I'm a Computer Science Undergrad, from PES University<br>I’m currently learning Web Development mainly focusing on Backend, App Development (flutter), Game Development using <br>Python (pygame and ursina), DSA Problem Solving and Competitive Programming. I am also interested in exploring Machine Learning and Data Science.
 
 ### Blog:
 https://theyashwanthsai.hashnode.dev
