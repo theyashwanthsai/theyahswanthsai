@@ -16,30 +16,6 @@ Writing my own x86 Operating System which is a single tasking interrupt driven O
 >[Raycasting-3d-engine](https://github.com/theyashwanthsai/raycasting-3d-engine) - 
 Doom/Wolfenstein 3D raycasting engine made using python and pygame
 
-## My Projects
-#### IOT
->[Theft-Detection_System](https://github.com/theyashwanthsai/Theft-Detection_System): A project made using Arduino, UltraSonic sensor, PIR sensor which detects any movement within a specific range from the sensor and lights up the LED. This was made in the IOT workshop cum hackathon conducted by my college.
-
-> [IOT-Projects](https://github.com/theyashwanthsai/IOT-Projects): All the iot projects we made as a part of a hands-on workshop conducted by my college in 3rd semester, Sept 2022.
-
-#### Game Dev
->[Minecraft-Clone-UrsinaEngine](https://github.com/theyashwanthsai/Minecraft-Clone-UrsinaEngine): Minecraft Clone made in python using the ursine game engine.
-
->[ActionRPG-Pygame](https://github.com/theyashwanthsai/ActionRPG-Pygame): Trying to build my dream action rpg game like Zelda. This time using python.
-
->[Dodge-the-Creeps](https://github.com/theyashwanthsai/Dodge-the-Creeps)
-
->[Raycasting-3d-engine](https://github.com/theyashwanthsai/raycasting-3d-engine): 
-Doom/Wolfenstein 3D raycasting engine made using python and pygame
-
-#### CyberSec
->[picoGym-CTFs-Writeups](https://github.com/theyashwanthsai/picoGym-CTFs-Writeups): Wrtieups for various CTFs I have solved in the non-competetive picoGym.
-
->[Malware-For-Fun](https://github.com/theyashwanthsai/Malware-For-Fun): This repository is to showcase all the malware I will be writing as a part of course or maybe just of fun. This is an educational project, only meant for learning.
-
->[PortScanner](https://github.com/theyashwanthsai/PortScanner): A simple port scanner I built while learning ethical hacking from TCM Sec
-
->[Playfair-Cipher-C_project](https://github.com/theyashwanthsai/Playfair-Cipher-C_project): Implementing the Playfair algorithm which is used to encrypt and decrypt.
 
 ## Showcase:
 I build games for fun. I watch youtube videos, or read blogs and try to make something which matches with what came to my mind.
