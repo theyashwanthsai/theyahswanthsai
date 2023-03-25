@@ -8,6 +8,16 @@ https://theyashwanthsai.hashnode.dev
 
 
 
+### Websites hosted online
+
+[Earthquake Prediction Model](https://theyashwanthsai-earthquake-prediction-model-earthquake-uxcp3b.streamlit.app/)
+
+[Titanic Survival Prediction](https://theyashwanthsai-titanic-survival-prediction-app-mkyker.streamlit.app/)
+
+[Terminal Styled Portfolio Website](https://personal-website-beige-two.vercel.app/)
+
+[Todo App](https://to-do-react-lva93e4uy-theyashwanthsai.vercel.app)
+
 
 ### Projects I am currently working on:
 >[LittleOS](https://github.com/theyashwanthsai/LittleOS) - 
