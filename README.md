@@ -10,6 +10,8 @@ https://theyashwanthsai.hashnode.dev
 
 ### Websites hosted online
 
+[Anime-Recommendation-System](https://theyashwanthsai-anime-recommendation-system-app-0rpzw9.streamlit.app)
+
 [Earthquake Prediction Model](https://theyashwanthsai-earthquake-prediction-model-earthquake-uxcp3b.streamlit.app/)
 
 [Titanic Survival Prediction](https://theyashwanthsai-titanic-survival-prediction-app-mkyker.streamlit.app/)
@@ -17,6 +19,7 @@ https://theyashwanthsai.hashnode.dev
 [Terminal Styled Portfolio Website](https://personal-website-beige-two.vercel.app/)
 
 [Todo App](https://to-do-react-lva93e4uy-theyashwanthsai.vercel.app)
+
 
 
 ### Projects I am currently working on:
