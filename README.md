@@ -14,6 +14,8 @@ https://theyashwanthsai.hashnode.dev
 
 [Earthquake Prediction Model](https://theyashwanthsai-earthquake-prediction-model-earthquake-uxcp3b.streamlit.app/)
 
+[CR7 Analysis](https://theyashwanthsai-cr7-analysis-app-3t7amd.streamlit.app)
+
 [Titanic Survival Prediction](https://theyashwanthsai-titanic-survival-prediction-app-mkyker.streamlit.app/)
 
 [Terminal Styled Portfolio Website](https://personal-website-beige-two.vercel.app/)
