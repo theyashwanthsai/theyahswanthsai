@@ -1,9 +1,10 @@
-<h1 align="center">Hello, I'm Sai Yashwanth</h1>
+Hi there! My name is Sai Yashwanth, and I'm a Computer Science undergraduate from PES University. I'm passionate about exploring various domains of computer science and constantly upgrading my skills.
 
+Currently, I'm honing my skills in Web Development, with a primary focus on Backend Development. I'm also interested in Game Development using Python libraries like Pygame and Ursina, as well as Data Structures and Algorithms (DSA) Problem Solving and Competitive Programming. Besides, I'm enthusiastic about Machine Learning and Data Science and exploring its applications in different domains.
 
- ### My name is Sai Yashwanth and I'm a Computer Science Undergrad, from PES University
- 
-I’m currently learning Web Development mainly focusing on Backend, Game Development using Python (pygame and ursina), DSA Problem Solving and Competitive Programming, Machine Learning and Data Science.
+In my free time, I like to explore new technologies, learn something new like a new framework, and work on personal projects that challenge me to improve my skills.
+
+I'm excited about leveraging my skills and knowledge to contribute to exciting projects and collaborate with like-minded individuals in the tech industry.
 
 ### Blog:
 https://theyashwanthsai.hashnode.dev
