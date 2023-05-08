@@ -11,21 +11,6 @@ https://theyashwanthsai.hashnode.dev
 
 
 
-### Websites hosted online
-
-[Anime-Recommendation-System](https://theyashwanthsai-anime-recommendation-system-app-0rpzw9.streamlit.app)
-
-[Earthquake Prediction Model](https://theyashwanthsai-earthquake-prediction-model-earthquake-uxcp3b.streamlit.app/)
-
-[CR7 Analysis](https://theyashwanthsai-cr7-analysis-app-3t7amd.streamlit.app)
-
-[Titanic Survival Prediction](https://theyashwanthsai-titanic-survival-prediction-app-mkyker.streamlit.app/)
-
-[Terminal Styled Portfolio Website](https://personal-website-beige-two.vercel.app/)
-
-[Todo App](https://to-do-react-lva93e4uy-theyashwanthsai.vercel.app)
-
-
 
 ### Projects I am currently working on:
 >[LittleOS](https://github.com/theyashwanthsai/LittleOS) - 
@@ -48,3 +33,16 @@ Some of the projects I did for fun:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwanth-sai-457aa51b9) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@theyashwanthsai) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yashwanthsai29) 
 
+### Websites hosted online
+
+[Anime-Recommendation-System](https://theyashwanthsai-anime-recommendation-system-app-0rpzw9.streamlit.app)
+
+[Earthquake Prediction Model](https://theyashwanthsai-earthquake-prediction-model-earthquake-uxcp3b.streamlit.app/)
+
+[CR7 Analysis](https://theyashwanthsai-cr7-analysis-app-3t7amd.streamlit.app)
+
+[Titanic Survival Prediction](https://theyashwanthsai-titanic-survival-prediction-app-mkyker.streamlit.app/)
+
+[Terminal Styled Portfolio Website](https://personal-website-beige-two.vercel.app/)
+
+[Todo App](https://to-do-react-lva93e4uy-theyashwanthsai.vercel.app)
