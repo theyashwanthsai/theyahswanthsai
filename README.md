@@ -8,7 +8,7 @@ I'm excited about leveraging my skills and knowledge to contribute to exciting p
 
 ### Blog:
 
-https://my-digital-garden-snowy.vercel.app/
+https://digital-garden-five-rose.vercel.app
 
 https://theyashwanthsai.hashnode.dev
 
