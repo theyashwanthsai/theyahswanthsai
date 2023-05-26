@@ -7,6 +7,9 @@ In my free time, I like to explore new technologies, learn something new like a 
 I'm excited about leveraging my skills and knowledge to contribute to exciting projects and collaborate with like-minded individuals in the tech industry.
 
 ### Blog:
+
+https://my-digital-garden-snowy.vercel.app/
+
 https://theyashwanthsai.hashnode.dev
 
 
