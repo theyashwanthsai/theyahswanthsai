@@ -16,11 +16,14 @@ https://theyashwanthsai.hashnode.dev
 
 
 ### Projects I am currently working on:
->[LittleOS](https://github.com/theyashwanthsai/LittleOS) - 
-Writing my own x86 Operating System which is a single tasking interrupt driven OS.
+>[ZenScript](https://github.com/theyashwanthsai/ZenScript) - 
+Sometimes you should reinvent the wheel. Building my own programming language using python - To understand more about interpreters, compliers.
 
->[Raycasting-3d-engine](https://github.com/theyashwanthsai/raycasting-3d-engine) - 
-Doom/Wolfenstein 3D raycasting engine made using python and pygame
+>[TinyReact](https://github.com/theyashwanthsai/TinyReact) - 
+Tiny React is a lightweight clone of the popular JavaScript library, React. This project aims to provide a simplified yet educational implementation of React's core concepts, focusing on the key aspects of JSX processing, rendering, efficient patching, and component lifecycle.
+
+>[TinyExpress](https://github.com/theyashwanthsai/TinyExpress) - 
+TinyExpress is a lightweight and simplified clone of the popular Node.js web application framework, Express.js. This repository provides a fundamental implementation of key Express features, making it an excellent resource for learning and experimentation.
 
 
 ## Showcase:
