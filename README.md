@@ -17,7 +17,7 @@ https://theyashwanthsai.hashnode.dev
 
 ### Projects I am currently working on:
 >[ZenScript](https://github.com/theyashwanthsai/ZenScript) - 
-Sometimes you should reinvent the wheel. Building my own programming language using python - To understand more about interpreters, compliers.
+Sometimes you should reinvent the wheel. Building my own programming language using Python - To understand more about interpreters, compilers.
 
 >[TinyReact](https://github.com/theyashwanthsai/TinyReact) - 
 Tiny React is a lightweight clone of the popular JavaScript library, React. This project aims to provide a simplified yet educational implementation of React's core concepts, focusing on the key aspects of JSX processing, rendering, efficient patching, and component lifecycle.
@@ -27,11 +27,10 @@ TinyExpress is a lightweight and simplified clone of the popular Node.js web app
 
 
 ## Showcase:
-I build games for fun. I watch youtube videos, or read blogs and try to make something which matches with what came to my mind.
+I build games for fun. I watch YouTube videos or read blogs and try to make something that matches what comes to my mind.
 Some of the projects I did for fun:
-![Screenshot 2023-01-20 at 10 40 53 PM](https://user-images.githubusercontent.com/68785131/213761405-63c0f8bb-bb80-4671-a021-c8b9287cb0c9.png)
-![Screenshot 2023-01-20 at 10 42 12 PM](https://user-images.githubusercontent.com/68785131/213761688-dbe6aec2-24b2-4ade-aa5a-640008db23f7.png)
-![Screenshot 2023-01-20 at 10 43 08 PM](https://user-images.githubusercontent.com/68785131/213762215-ea5c596f-113f-4acb-889f-b74b6dbcab32.png)
+
+![Collage Maker-14-Oct-2023-11-12-PM-1662](https://github.com/theyashwanthsai/theyashwanthsai/assets/68785131/a382a698-2fe6-45f6-a406-86015f6c77b6)
 
 
 
