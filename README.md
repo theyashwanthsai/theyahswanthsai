@@ -1,10 +1,4 @@
-Hi there! My name is Sai Yashwanth, and I'm a Computer Science undergraduate from PES University. I'm passionate about exploring various domains of computer science and constantly upgrading my skills.
-
-Currently, I'm honing my skills in Web Development, with a primary focus on Backend Development. I'm also interested in Game Development using Python libraries like Pygame and Ursina, as well as Data Structures and Algorithms (DSA) Problem Solving and Competitive Programming. Besides, I'm enthusiastic about Machine Learning and Data Science and exploring its applications in different domains. I also recently got into chess programming and it's very interesting to say the least. 
-
-In my free time, I like to explore new technologies, learn something new like a new framework, and work on personal projects that challenge me to improve my skills.
-
-I'm excited about leveraging my skills and knowledge to contribute to exciting projects and collaborate with like-minded individuals in the tech industry.
+Hi there! My name is Sai Yashwanth, I am an Engineer. I love building stuff and writing about them online. I also like solving problems using tech and and enjoy learning various things. 
 
 ### Blog:
 
@@ -25,6 +19,11 @@ Tiny React is a lightweight clone of the popular JavaScript library, React. This
 >[TinyExpress](https://github.com/theyashwanthsai/TinyExpress) - 
 TinyExpress is a lightweight and simplified clone of the popular Node.js web application framework, Express.js. This repository provides a fundamental implementation of key Express features, making it an excellent resource for learning and experimentation.
 
+>[leetAPI](https://github.com/theyashwanthsai/leetAPI) - A simple api to fetch leetcode user submissions.
+
+>[leetArena](https://github.com/theyashwanthsai/leetArena) - LeetArena is a platform where users can create custom rooms, select LeetCode questions, and compete with their friends.
+
+>[Rusty Zenscript]() - Rewriting zenscript in rust (to practice rust). My favorite project till now. I love learning new tech and Rust -> (′ꈍᴗꈍ‵)
 
 ## Showcase:
 I build games for fun. I watch YouTube videos or read blogs and try to make something that matches what comes to my mind.
