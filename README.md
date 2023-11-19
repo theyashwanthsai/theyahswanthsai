@@ -23,7 +23,7 @@ TinyExpress is a lightweight and simplified clone of the popular Node.js web app
 
 >[leetArena](https://github.com/theyashwanthsai/leetArena) - LeetArena is a platform where users can create custom rooms, select LeetCode questions, and compete with their friends.
 
->[Rusty Zenscript]() - Rewriting zenscript in rust (to practice rust). My favorite project till now. I love learning new tech and Rust -> (′ꈍᴗꈍ‵)
+>[Rusty Zenscript](https://github.com/theyashwanthsai/Rusty-ZenScript) - Rewriting zenscript in rust (to practice rust). My favorite project till now. I love learning new tech and Rust -> (^ ᴗ ^)
 
 ## Showcase:
 I build games for fun. I watch YouTube videos or read blogs and try to make something that matches what comes to my mind.
