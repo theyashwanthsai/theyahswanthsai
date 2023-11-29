@@ -2,7 +2,7 @@ Hi there! My name is Sai Yashwanth, I am an Engineer. I love building stuff and 
 
 ### Blog:
 
-[My Articles]([https://saiyashwanth.vercel.app](https://saiyashwanth.vercel.app/articles))
+[My Articles](https://saiyashwanth.vercel.app/articles)
 
 
 
