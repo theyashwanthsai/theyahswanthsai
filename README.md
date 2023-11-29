@@ -25,4 +25,4 @@ Tiny React is a lightweight clone of the popular JavaScript library, React. This
 I build games for fun. I watch YouTube videos or read blogs and try to make something that matches what comes to my mind.
 Some of the projects I did for fun:
 
-<img src="https://github.com/theyashwanthsai/theyashwanthsai/assets/68785131/a382a698-2fe6-45f6-a406-86015f6c77b6" width="400" height="400" />
+<img src="assets/Screenshot 2023-11-29 at 3.10.19 PM.png" width="300" height="150" />  <img src="assets/Screenshot 2023-11-29 at 3.10.19 PM 2.png" width="300" height="150" />  <img src="assets/Screenshot 2023-11-29 at 3.10.19 PM 3.png" width="300" height="150" /> 
