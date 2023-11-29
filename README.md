@@ -6,13 +6,9 @@ Hi there! My name is Sai Yashwanth, I am an Engineer. I love building stuff and 
 
 ### Projects I want you to look at:
 * [ZenScript](https://github.com/theyashwanthsai/ZenScript) 
-
 * [TinyReact](https://github.com/theyashwanthsai/TinyReact)
-
 * [leetAPI](https://github.com/theyashwanthsai/leetAPI) 
-
 * [leetArena](https://github.com/theyashwanthsai/leetArena) 
-
 * [Rusty Zenscript](https://github.com/theyashwanthsai/Rusty-ZenScript) 
 
 ## Showcase:
