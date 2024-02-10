@@ -1,5 +1,7 @@
 Hi there! My name is Sai Yashwanth, I am an Engineer. I love building stuff and writing about them online. I also like solving problems using tech and and enjoy learning various things. 
 
+ 🌿 Currently: Moving from Javascript to Typescript. Also focussing getting comfortable with golang this year
+ 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 ### Projects I want you to look at:
