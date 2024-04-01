@@ -6,7 +6,8 @@ Hi there! My name is Sai Yashwanth, I am an Engineer. I love building stuff and 
 
 ### Projects I want you to look at:
 * [KVDatastore](https://github.com/theyashwanthsai/KVDatastore)
-* [ZenScript](https://github.com/theyashwanthsai/ZenScript) 
+* [ZenScript](https://github.com/theyashwanthsai/ZenScript)
+* [Opilot.nvim](https://github.com/theyashwanthsai/opilot.nvim)
 * [leetAPI](https://github.com/theyashwanthsai/leetAPI) 
 * [leetArena](https://github.com/theyashwanthsai/leetArena)
 * [TinyReact](https://github.com/theyashwanthsai/TinyReact)
